@@ -1,7 +1,8 @@
 <?php 
-class Time_message extends Controller{
+class Time_message extends CI_Controller{
 	function index(){
-		log_message('debug','Start to process');
+		//昨日ひでさんが修正した箇所
+		//log_message('debug','Start to process');
 		//タイトル
 		$data['title'] = '時刻メッセージ';
 		//現在の時刻

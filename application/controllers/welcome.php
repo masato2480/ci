@@ -19,7 +19,7 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		log_message('debug','welcome message!!!!!!!!');
+		log_message('debug','welcome message!');
 		$this->load->view('welcome_message');
 	}
 }
