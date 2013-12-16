@@ -11,21 +11,17 @@
 <?=$this->load->view('form_header');?>
 <div id="main">
 <div class="title_banner">
-<img src="<?=base_url();?>images/icons/form_title.jpg" alt="login form" width="580" height="70" />
 </div>
-
 <div class="outer_frame">
 <?=form_open('form/confirm');?>
 <table>
 <tr><th>Login Name</th>
 <td>
- <input type="text" name="login_name" value="<?= $this->form_validation->login_name; ?>" size="30" />
- <?= $this->form_validation->login_name_error; ?>
+ <input type="text" name="login_name" value="" size="30" />
 </td></tr>
 <tr><th>Login Password</th>
 <td>
- <input type="text" name="login_password" value="<?= $this->form_validation->login_password; ?>" size="30" />
- <?=$this->form_validation->login_password_error;?>
+ <input type="text" name="login_password" value="" size="30" />
 </td></tr>
 <tr><td></td>
 <td class="center">

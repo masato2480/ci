@@ -4,18 +4,19 @@ class Login extends CI_Controller{
 	function __construct()
 	{
 		parent::__construct();
+        //parent::CI_Form_validation;
 		
 		$this->load->helper(array('form'));
         $this->load->helper('url');
-		$this->load->helper('form');
+		//$this->load->helper('form');
 		
 		$this->load->library('session');
 		$this->load->library('form_validation');
         
 		$this->output->set_header('Content-Type: text/html; charset=UTF-8');
 		
-        $fields['login_name'] = 'Login Name';
-        $fields['login_password'] = 'Login Password';
+        $fields['login_name'] = 'login_name';
+        $fields['login_password'] = 'login_password';
         
         $this->form_validation->set_rules('login_name', 'Login Name', 'trim|required|max_length[20]');
         $this->form_validation->set_rules('login_password', 'Login Password', 'trim|required|max_length[20]');
