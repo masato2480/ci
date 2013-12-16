@@ -11,6 +11,7 @@
 <?=$this->load->view('form_header');?>
 <div id="main">
 <div class="title_banner">
+<img src="<?=base_url();?>images/icons/rexvirt_logo3.png" alt="login form" width="580" height="70" />
 </div>
 <div class="outer_frame">
 <?=form_open('form/confirm');?>

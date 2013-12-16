@@ -9258,3 +9258,437 @@ DEBUG - 2013-12-16 10:27:43 --> UTF-8 Support Enabled
 DEBUG - 2013-12-16 10:27:43 --> URI Class Initialized
 DEBUG - 2013-12-16 10:27:43 --> Router Class Initialized
 ERROR - 2013-12-16 10:27:43 --> 404 Page Not Found --> form
+DEBUG - 2013-12-16 10:28:47 --> Config Class Initialized
+DEBUG - 2013-12-16 10:28:47 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:28:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:28:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:28:47 --> URI Class Initialized
+DEBUG - 2013-12-16 10:28:47 --> Router Class Initialized
+ERROR - 2013-12-16 10:28:47 --> 404 Page Not Found --> form
+DEBUG - 2013-12-16 10:29:06 --> Config Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:29:06 --> URI Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> Router Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> Output Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> Security Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> Input Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:29:06 --> Language Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:29:06 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:29:06 --> Session Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:29:06 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> Session routines successfully run
+DEBUG - 2013-12-16 10:29:06 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:29:06 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:29:06 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:29:06 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:29:06 --> Final output sent to browser
+DEBUG - 2013-12-16 10:29:06 --> Total execution time: 0.0682
+DEBUG - 2013-12-16 10:30:24 --> Config Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:30:24 --> URI Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> Router Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> Output Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> Security Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> Input Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:30:24 --> Language Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:30:24 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:30:24 --> Session Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:30:24 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> Session routines successfully run
+DEBUG - 2013-12-16 10:30:24 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:30:24 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:30:24 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:30:24 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:30:24 --> Final output sent to browser
+DEBUG - 2013-12-16 10:30:24 --> Total execution time: 0.0750
+DEBUG - 2013-12-16 10:33:16 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:16 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Router Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Output Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Security Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Input Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:33:16 --> Language Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:33:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:33:16 --> Session Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:33:16 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Session routines successfully run
+DEBUG - 2013-12-16 10:33:16 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:33:16 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:33:16 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:33:16 --> Final output sent to browser
+DEBUG - 2013-12-16 10:33:16 --> Total execution time: 0.0202
+DEBUG - 2013-12-16 10:33:16 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:16 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:16 --> Router Class Initialized
+ERROR - 2013-12-16 10:33:16 --> 404 Page Not Found --> images
+DEBUG - 2013-12-16 10:33:18 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:18 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Router Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Output Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Security Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Input Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:33:18 --> Language Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:33:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:33:18 --> Session Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:33:18 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Session routines successfully run
+DEBUG - 2013-12-16 10:33:18 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:33:18 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:33:18 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:33:18 --> Final output sent to browser
+DEBUG - 2013-12-16 10:33:18 --> Total execution time: 0.0730
+DEBUG - 2013-12-16 10:33:18 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:18 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:18 --> Router Class Initialized
+ERROR - 2013-12-16 10:33:18 --> 404 Page Not Found --> images
+DEBUG - 2013-12-16 10:33:49 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:49 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:50 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Router Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Output Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Security Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Input Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:33:50 --> Language Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:33:50 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:33:50 --> Session Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:33:50 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Session routines successfully run
+DEBUG - 2013-12-16 10:33:50 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:33:50 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:33:50 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:33:50 --> Final output sent to browser
+DEBUG - 2013-12-16 10:33:50 --> Total execution time: 0.0734
+DEBUG - 2013-12-16 10:33:50 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:50 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Router Class Initialized
+ERROR - 2013-12-16 10:33:50 --> 404 Page Not Found --> images
+DEBUG - 2013-12-16 10:33:50 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:50 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:51 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Router Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Output Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Security Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Input Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:33:51 --> Language Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:33:51 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:33:51 --> Session Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:33:51 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Session routines successfully run
+DEBUG - 2013-12-16 10:33:51 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:33:51 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:33:51 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:33:51 --> Final output sent to browser
+DEBUG - 2013-12-16 10:33:51 --> Total execution time: 0.0717
+DEBUG - 2013-12-16 10:33:51 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:51 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Router Class Initialized
+ERROR - 2013-12-16 10:33:51 --> 404 Page Not Found --> images
+DEBUG - 2013-12-16 10:33:51 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:51 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Router Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Output Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Security Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Input Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:33:51 --> Language Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:33:51 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:33:51 --> Session Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:33:51 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Session routines successfully run
+DEBUG - 2013-12-16 10:33:51 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:33:51 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:33:51 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:33:51 --> Final output sent to browser
+DEBUG - 2013-12-16 10:33:51 --> Total execution time: 0.0707
+DEBUG - 2013-12-16 10:33:51 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:51 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Router Class Initialized
+ERROR - 2013-12-16 10:33:51 --> 404 Page Not Found --> images
+DEBUG - 2013-12-16 10:33:51 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:51 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:52 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Router Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Output Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Security Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Input Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:33:52 --> Language Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:33:52 --> Session Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:33:52 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Session routines successfully run
+DEBUG - 2013-12-16 10:33:52 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:33:52 --> Final output sent to browser
+DEBUG - 2013-12-16 10:33:52 --> Total execution time: 0.1056
+DEBUG - 2013-12-16 10:33:52 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:52 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Router Class Initialized
+ERROR - 2013-12-16 10:33:52 --> 404 Page Not Found --> images
+DEBUG - 2013-12-16 10:33:52 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:52 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Router Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Output Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Security Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Input Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:33:52 --> Language Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:33:52 --> Session Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:33:52 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Session routines successfully run
+DEBUG - 2013-12-16 10:33:52 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:33:52 --> Final output sent to browser
+DEBUG - 2013-12-16 10:33:52 --> Total execution time: 0.0165
+DEBUG - 2013-12-16 10:33:52 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:52 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Router Class Initialized
+ERROR - 2013-12-16 10:33:52 --> 404 Page Not Found --> images
+DEBUG - 2013-12-16 10:33:52 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:52 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Router Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Output Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Security Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Input Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:33:52 --> Language Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:33:52 --> Session Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:33:52 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Session routines successfully run
+DEBUG - 2013-12-16 10:33:52 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:33:52 --> Final output sent to browser
+DEBUG - 2013-12-16 10:33:52 --> Total execution time: 0.0161
+DEBUG - 2013-12-16 10:33:52 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:52 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Router Class Initialized
+ERROR - 2013-12-16 10:33:52 --> 404 Page Not Found --> images
+DEBUG - 2013-12-16 10:33:52 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:52 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Router Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Output Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Security Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Input Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:33:52 --> Language Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:33:52 --> Session Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:33:52 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Session routines successfully run
+DEBUG - 2013-12-16 10:33:52 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:33:52 --> Final output sent to browser
+DEBUG - 2013-12-16 10:33:52 --> Total execution time: 0.0156
+DEBUG - 2013-12-16 10:33:52 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:52 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Router Class Initialized
+ERROR - 2013-12-16 10:33:52 --> 404 Page Not Found --> images
+DEBUG - 2013-12-16 10:33:52 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:52 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Router Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Output Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Security Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Input Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:33:52 --> Language Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:33:52 --> Session Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:33:52 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Session routines successfully run
+DEBUG - 2013-12-16 10:33:52 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:33:52 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:33:52 --> Final output sent to browser
+DEBUG - 2013-12-16 10:33:52 --> Total execution time: 0.0159
+DEBUG - 2013-12-16 10:33:52 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:52 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:52 --> Router Class Initialized
+ERROR - 2013-12-16 10:33:52 --> 404 Page Not Found --> images
+DEBUG - 2013-12-16 10:33:53 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:53 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Router Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Output Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Security Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Input Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:33:53 --> Language Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:33:53 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:33:53 --> Session Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:33:53 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Session routines successfully run
+DEBUG - 2013-12-16 10:33:53 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:33:53 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:33:53 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:33:53 --> Final output sent to browser
+DEBUG - 2013-12-16 10:33:53 --> Total execution time: 0.0160
+DEBUG - 2013-12-16 10:33:53 --> Config Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:33:53 --> URI Class Initialized
+DEBUG - 2013-12-16 10:33:53 --> Router Class Initialized
+ERROR - 2013-12-16 10:33:53 --> 404 Page Not Found --> images
+DEBUG - 2013-12-16 10:34:21 --> Config Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:34:21 --> URI Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> Router Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> Output Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> Security Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> Input Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-16 10:34:21 --> Language Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> Loader Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> Controller Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> Helper loaded: form_helper
+DEBUG - 2013-12-16 10:34:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-16 10:34:21 --> Session Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> Helper loaded: string_helper
+DEBUG - 2013-12-16 10:34:21 --> Encrypt Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> Session routines successfully run
+DEBUG - 2013-12-16 10:34:21 --> Form Validation Class Initialized
+DEBUG - 2013-12-16 10:34:21 --> File loaded: application/views/form_header.php
+DEBUG - 2013-12-16 10:34:21 --> File loaded: application/views/ci_footer.php
+DEBUG - 2013-12-16 10:34:21 --> File loaded: application/views/login.php
+DEBUG - 2013-12-16 10:34:21 --> Final output sent to browser
+DEBUG - 2013-12-16 10:34:21 --> Total execution time: 0.0697
