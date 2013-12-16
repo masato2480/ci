@@ -526,3 +526,277 @@ DEBUG - 2013-12-13 08:27:18 --> Controller Class Initialized
 DEBUG - 2013-12-13 08:27:18 --> File loaded: application/views/time_message_view.php
 DEBUG - 2013-12-13 08:27:18 --> Final output sent to browser
 DEBUG - 2013-12-13 08:27:18 --> Total execution time: 0.0300
+DEBUG - 2013-12-13 10:14:29 --> Config Class Initialized
+DEBUG - 2013-12-13 10:14:29 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:14:29 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:14:29 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:14:29 --> URI Class Initialized
+DEBUG - 2013-12-13 10:14:29 --> Router Class Initialized
+DEBUG - 2013-12-13 10:14:29 --> Output Class Initialized
+DEBUG - 2013-12-13 10:14:29 --> Security Class Initialized
+DEBUG - 2013-12-13 10:14:29 --> Input Class Initialized
+DEBUG - 2013-12-13 10:14:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:14:29 --> Language Class Initialized
+DEBUG - 2013-12-13 10:14:33 --> Config Class Initialized
+DEBUG - 2013-12-13 10:14:33 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:14:33 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:14:33 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:14:33 --> URI Class Initialized
+DEBUG - 2013-12-13 10:14:33 --> Router Class Initialized
+DEBUG - 2013-12-13 10:14:33 --> Output Class Initialized
+DEBUG - 2013-12-13 10:14:33 --> Security Class Initialized
+DEBUG - 2013-12-13 10:14:33 --> Input Class Initialized
+DEBUG - 2013-12-13 10:14:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:14:33 --> Language Class Initialized
+DEBUG - 2013-12-13 10:14:34 --> Config Class Initialized
+DEBUG - 2013-12-13 10:14:34 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:14:34 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:14:34 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:14:34 --> URI Class Initialized
+DEBUG - 2013-12-13 10:14:34 --> Router Class Initialized
+DEBUG - 2013-12-13 10:14:34 --> Output Class Initialized
+DEBUG - 2013-12-13 10:14:34 --> Security Class Initialized
+DEBUG - 2013-12-13 10:14:34 --> Input Class Initialized
+DEBUG - 2013-12-13 10:14:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:14:34 --> Language Class Initialized
+DEBUG - 2013-12-13 10:14:35 --> Config Class Initialized
+DEBUG - 2013-12-13 10:14:35 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:14:35 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:14:35 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:14:35 --> URI Class Initialized
+DEBUG - 2013-12-13 10:14:35 --> Router Class Initialized
+DEBUG - 2013-12-13 10:14:35 --> Output Class Initialized
+DEBUG - 2013-12-13 10:14:35 --> Security Class Initialized
+DEBUG - 2013-12-13 10:14:35 --> Input Class Initialized
+DEBUG - 2013-12-13 10:14:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:14:35 --> Language Class Initialized
+DEBUG - 2013-12-13 10:14:35 --> Config Class Initialized
+DEBUG - 2013-12-13 10:14:35 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:14:35 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:14:36 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:14:36 --> URI Class Initialized
+DEBUG - 2013-12-13 10:14:36 --> Router Class Initialized
+DEBUG - 2013-12-13 10:14:36 --> Output Class Initialized
+DEBUG - 2013-12-13 10:14:36 --> Security Class Initialized
+DEBUG - 2013-12-13 10:14:36 --> Input Class Initialized
+DEBUG - 2013-12-13 10:14:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:14:36 --> Language Class Initialized
+DEBUG - 2013-12-13 10:15:13 --> Config Class Initialized
+DEBUG - 2013-12-13 10:15:13 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:15:13 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:15:13 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:15:13 --> URI Class Initialized
+DEBUG - 2013-12-13 10:15:13 --> Router Class Initialized
+DEBUG - 2013-12-13 10:15:13 --> No URI present. Default controller set.
+DEBUG - 2013-12-13 10:15:13 --> Output Class Initialized
+DEBUG - 2013-12-13 10:15:13 --> Security Class Initialized
+DEBUG - 2013-12-13 10:15:13 --> Input Class Initialized
+DEBUG - 2013-12-13 10:15:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:15:13 --> Language Class Initialized
+DEBUG - 2013-12-13 10:15:13 --> Loader Class Initialized
+DEBUG - 2013-12-13 10:15:13 --> Controller Class Initialized
+DEBUG - 2013-12-13 10:15:13 --> welcome message!
+DEBUG - 2013-12-13 10:15:13 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-12-13 10:15:13 --> Final output sent to browser
+DEBUG - 2013-12-13 10:15:13 --> Total execution time: 0.0401
+DEBUG - 2013-12-13 10:15:14 --> Config Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:15:14 --> URI Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Router Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Output Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Config Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Security Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Input Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:15:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:15:14 --> Language Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> URI Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Router Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Output Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Security Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Input Class Initialized
+DEBUG - 2013-12-13 10:15:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:15:14 --> Language Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Config Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:16:18 --> URI Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Router Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Output Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Security Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Input Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:16:18 --> Language Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Config Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:16:18 --> URI Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Router Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Output Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Security Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Input Class Initialized
+DEBUG - 2013-12-13 10:16:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:16:18 --> Language Class Initialized
+DEBUG - 2013-12-13 10:16:19 --> Config Class Initialized
+DEBUG - 2013-12-13 10:16:19 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:16:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:16:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:16:19 --> URI Class Initialized
+DEBUG - 2013-12-13 10:16:19 --> Router Class Initialized
+DEBUG - 2013-12-13 10:16:19 --> Output Class Initialized
+DEBUG - 2013-12-13 10:16:19 --> Security Class Initialized
+DEBUG - 2013-12-13 10:16:19 --> Input Class Initialized
+DEBUG - 2013-12-13 10:16:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:16:19 --> Language Class Initialized
+DEBUG - 2013-12-13 10:16:33 --> Config Class Initialized
+DEBUG - 2013-12-13 10:16:33 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:16:33 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:16:33 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:16:33 --> URI Class Initialized
+DEBUG - 2013-12-13 10:16:33 --> Router Class Initialized
+DEBUG - 2013-12-13 10:16:33 --> Output Class Initialized
+DEBUG - 2013-12-13 10:16:33 --> Security Class Initialized
+DEBUG - 2013-12-13 10:16:33 --> Input Class Initialized
+DEBUG - 2013-12-13 10:16:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:16:33 --> Language Class Initialized
+DEBUG - 2013-12-13 10:17:28 --> Config Class Initialized
+DEBUG - 2013-12-13 10:17:28 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:17:28 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:17:28 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:17:28 --> URI Class Initialized
+DEBUG - 2013-12-13 10:17:28 --> Router Class Initialized
+DEBUG - 2013-12-13 10:17:28 --> Output Class Initialized
+DEBUG - 2013-12-13 10:17:28 --> Security Class Initialized
+DEBUG - 2013-12-13 10:17:28 --> Input Class Initialized
+DEBUG - 2013-12-13 10:17:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:17:28 --> Language Class Initialized
+DEBUG - 2013-12-13 10:17:29 --> Config Class Initialized
+DEBUG - 2013-12-13 10:17:29 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:17:29 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:17:30 --> URI Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Router Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Output Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Security Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Input Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:17:30 --> Language Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Config Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:17:30 --> URI Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Router Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Output Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Security Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Input Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:17:30 --> Language Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Config Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:17:30 --> URI Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Router Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Output Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Security Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Input Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:17:30 --> Language Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Config Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:17:30 --> URI Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Router Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Output Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Security Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Input Class Initialized
+DEBUG - 2013-12-13 10:17:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:17:30 --> Language Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Config Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:17:35 --> URI Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Router Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Output Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Security Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Input Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Config Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:17:35 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Language Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:17:35 --> URI Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Router Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Output Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Security Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Input Class Initialized
+DEBUG - 2013-12-13 10:17:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:17:35 --> Language Class Initialized
+DEBUG - 2013-12-13 10:17:40 --> Config Class Initialized
+DEBUG - 2013-12-13 10:17:40 --> Hooks Class Initialized
+DEBUG - 2013-12-13 10:17:40 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 10:17:40 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 10:17:40 --> URI Class Initialized
+DEBUG - 2013-12-13 10:17:40 --> Router Class Initialized
+DEBUG - 2013-12-13 10:17:40 --> Output Class Initialized
+DEBUG - 2013-12-13 10:17:40 --> Security Class Initialized
+DEBUG - 2013-12-13 10:17:40 --> Input Class Initialized
+DEBUG - 2013-12-13 10:17:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 10:17:40 --> Language Class Initialized
+DEBUG - 2013-12-13 11:20:44 --> Config Class Initialized
+DEBUG - 2013-12-13 11:20:44 --> Hooks Class Initialized
+DEBUG - 2013-12-13 11:20:44 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 11:20:44 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 11:20:44 --> URI Class Initialized
+DEBUG - 2013-12-13 11:20:44 --> Router Class Initialized
+DEBUG - 2013-12-13 11:20:44 --> No URI present. Default controller set.
+DEBUG - 2013-12-13 11:20:44 --> Output Class Initialized
+DEBUG - 2013-12-13 11:20:44 --> Security Class Initialized
+DEBUG - 2013-12-13 11:20:44 --> Input Class Initialized
+DEBUG - 2013-12-13 11:20:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 11:20:44 --> Language Class Initialized
+DEBUG - 2013-12-13 11:20:44 --> Loader Class Initialized
+DEBUG - 2013-12-13 11:20:44 --> Controller Class Initialized
+DEBUG - 2013-12-13 11:20:44 --> welcome message!
+DEBUG - 2013-12-13 11:20:44 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-12-13 11:20:44 --> Final output sent to browser
+DEBUG - 2013-12-13 11:20:44 --> Total execution time: 0.0103
+DEBUG - 2013-12-13 11:20:45 --> Config Class Initialized
+DEBUG - 2013-12-13 11:20:45 --> Hooks Class Initialized
+DEBUG - 2013-12-13 11:20:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 11:20:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 11:20:46 --> URI Class Initialized
+DEBUG - 2013-12-13 11:20:46 --> Router Class Initialized
+DEBUG - 2013-12-13 11:20:46 --> No URI present. Default controller set.
+DEBUG - 2013-12-13 11:20:46 --> Output Class Initialized
+DEBUG - 2013-12-13 11:20:46 --> Security Class Initialized
+DEBUG - 2013-12-13 11:20:46 --> Input Class Initialized
+DEBUG - 2013-12-13 11:20:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 11:20:46 --> Language Class Initialized
+DEBUG - 2013-12-13 11:20:46 --> Loader Class Initialized
+DEBUG - 2013-12-13 11:20:46 --> Controller Class Initialized
+DEBUG - 2013-12-13 11:20:46 --> welcome message!
+DEBUG - 2013-12-13 11:20:46 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-12-13 11:20:46 --> Final output sent to browser
+DEBUG - 2013-12-13 11:20:46 --> Total execution time: 0.0352
+DEBUG - 2013-12-13 11:20:48 --> Config Class Initialized
+DEBUG - 2013-12-13 11:20:48 --> Hooks Class Initialized
+DEBUG - 2013-12-13 11:20:48 --> Utf8 Class Initialized
+DEBUG - 2013-12-13 11:20:48 --> UTF-8 Support Enabled
+DEBUG - 2013-12-13 11:20:48 --> URI Class Initialized
+DEBUG - 2013-12-13 11:20:48 --> Router Class Initialized
+DEBUG - 2013-12-13 11:20:48 --> Output Class Initialized
+DEBUG - 2013-12-13 11:20:48 --> Security Class Initialized
+DEBUG - 2013-12-13 11:20:48 --> Input Class Initialized
+DEBUG - 2013-12-13 11:20:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-13 11:20:48 --> Language Class Initialized
