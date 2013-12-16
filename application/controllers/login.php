@@ -1,5 +1,6 @@
 <?php 
 class Login extends CI_Controller{
+    /*
 	function Login()
 	{
 		parent::CI_Controller();
@@ -20,15 +21,19 @@ class Login extends CI_Controller{
 		$rules['login_password'] = "trim|required|max_length[20]";
 		$this->validation->set_fields($rules);
 	}
+    */
 	
 	function index()
 	{
 		//ランダムチケットを生成し、セッションに保存する。
 		//$this->ticket = md5(uniqid(mt_rand(),TRUE));
 		//$this->session->set_userdata('ticket', $this->ticket);
-		
+        
+        $this->load->helper('url'); // view で base_urlを使うために必要なヘルパ
+        $this->load->helper('form'); // view で form_openを使うために必要なヘルパ
+        
 		//入力ページ（form）のビューをロードし、表示する。
-		$this->load->view('form');
+		$this->load->view('index');
 	}
 }
 ?>
