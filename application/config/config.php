@@ -224,7 +224,9 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = '';
+$config['encryption_key'] = 'nmst0117nmst0117nmst0117nmst0117';
+ 
+//32文字のランダムな文字列を設定してください。
 
 /*
 |--------------------------------------------------------------------------
@@ -247,7 +249,7 @@ $config['encryption_key'] = '';
 $config['sess_cookie_name']		= 'ci_session';
 $config['sess_expiration']		= 7200;
 $config['sess_expire_on_close']	= FALSE;
-$config['sess_encrypt_cookie']	= FALSE;
+$config['sess_encrypt_cookie']	= TRUE;
 $config['sess_use_database']	= FALSE;
 $config['sess_table_name']		= 'ci_sessions';
 $config['sess_match_ip']		= FALSE;
