@@ -17,6 +17,8 @@
 <?=form_open('form/confirm');?>
 <table>
 <tr><th>Login Name</th>
+
+
 <td>
  <input type="text" name="login_name" value="" size="30" />
 </td></tr>

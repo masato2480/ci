@@ -225,7 +225,7 @@ $config['cache_path'] = '';
 |
 */
 $config['encryption_key'] = 'nmst0117nmst0117nmst0117nmst0117';
- 
+//12月15日に変更しました。codeigniter2以降だとここに暗号を入れる必要があるみたいです。 
 //32文字のランダムな文字列を設定してください。
 
 /*

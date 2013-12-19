@@ -9692,3 +9692,10 @@ DEBUG - 2013-12-16 10:34:21 --> File loaded: application/views/ci_footer.php
 DEBUG - 2013-12-16 10:34:21 --> File loaded: application/views/login.php
 DEBUG - 2013-12-16 10:34:21 --> Final output sent to browser
 DEBUG - 2013-12-16 10:34:21 --> Total execution time: 0.0697
+DEBUG - 2013-12-16 10:36:19 --> Config Class Initialized
+DEBUG - 2013-12-16 10:36:19 --> Hooks Class Initialized
+DEBUG - 2013-12-16 10:36:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-16 10:36:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-16 10:36:19 --> URI Class Initialized
+DEBUG - 2013-12-16 10:36:19 --> Router Class Initialized
+ERROR - 2013-12-16 10:36:19 --> 404 Page Not Found --> form
