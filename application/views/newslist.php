@@ -40,6 +40,9 @@
 </table>
 <br>
 <br>
+<a href="logout">
+<img src="<?=base_url();?>images/icons/loginout.png" alt="loginout" width="30" height="30" />
+</a>
 </div>
 </div>
 <?=$this->load->view('ci_footer');?>

@@ -4,46 +4,47 @@
         
         function __construct()
         {
-            //constructer
+            //コンストラクタ
             parent::__construct();
             
-            //helper
+            //form(フォームタグ）とurl（viewに送るためのリンク先）のヘルパー
             $this->load->helper(array('form', 'url'));
+            
+            //フォーム入力が妥当かどうか
             $this->load->library('form_validation');
             
-            //database
+            //データベース接続
             $this->load->database();
         
-            //output
+            //ビュー側でなんか読み込む
             $this->output->set_header('Content-Type: text/html; charset=UTF-8');
         }
     
         function index(){
-            //insert database to variable
+            //データベースNotifySystemのテーブルnewsのデータを読み込む
             $data['records']=$this->db->get('news')->result_array();
             
-            //load
+            //ビューの'newslist.php'を読み込む
             $this->load->view('newslist', $data);
-        }
-        
-        function add(){
-            $this->form_validation->set_rules('title', 'タイトル', 'required');
             
-            if($this->form_validation->run() == FALSE)
+            //ログインからのセッション保持
+            if($this->session->userdata('logged_in'))
             {
-                $this->load->view('add');
-            }else{
-                $this->load->view('success');
+                $session_data = $this->session->userdata('logged_in');
+                $data['username'] = $session_data['username'];
+                $this->load->view('newslist', $data);
             }
-            
+            else
+            {
+                redirect('login', 'refresh');
+            }
         }
         
-        function edit(){
-            
-        }
-        
-        function delete(){
-            
+        function logout()
+        {
+            $this->session->unset_userdata('logged_in');
+            session_destroy();
+            redirect('login', 'refresh');
         }
     }
 ?>
