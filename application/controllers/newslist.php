@@ -8,8 +8,10 @@
             parent::__construct();
             
             //helper
-            $this->load->helper('url');
-            $this->load->helper(array('form'));
+            $this->load->helper(array('form', 'url'));
+            $this->load->library('form_validation');
+            
+            //database
             $this->load->database();
         
             //output
@@ -22,7 +24,25 @@
             
             //load
             $this->load->view('newslist', $data);
+        }
+        
+        function add(){
+            $this->form_validation->set_rules('title', 'タイトル', 'required');
             
+            if($this->form_validation->run() == FALSE)
+            {
+                $this->load->view('add');
+            }else{
+                $this->load->view('success');
+            }
+            
+        }
+        
+        function edit(){
+            
+        }
+        
+        function delete(){
             
         }
     }

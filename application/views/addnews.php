@@ -4,35 +4,23 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" href="<?=base_url();?>css/form.css" type="text/css" />
-<title>Login Form</title>
+<title>Add News</title>
 </head>
-
 <body>
 <?=$this->load->view('form_header');?>
 <div id="main">
 <div class="title_banner">
 <img src="<?=base_url();?>images/icons/rexvirt_logo3.png" alt="login form" width="580" height="70" />
 </div>
+<div class="center">
+
 <br>
-<table style="margin-left: auto; margin-right: auto;">
-<tr><th>Username</th>
-<td>
- <input type="text" name="login_name" value="" size="30" />
-</td></tr>
-<tr><th>Password</th>
-<td>
- <input type="text" name="login_password" value="" size="30" />
-</td></tr>
-<tr><td></td>
-<td colspan=2>
- <br>
- <input class="button" type="submit" value="LOGIN" />
-</td></tr>
-</table>
+<br>
 
-<?=form_close();?>
+
+
 </div>
-
+</div>
 <?=$this->load->view('ci_footer');?>
 </body>
 </html>
