@@ -43,6 +43,7 @@
         function logout()
         {
             $this->session->unset_userdata('logged_in');
+            //↓必要ないかもしれない
             session_destroy();
             redirect('login', 'refresh');
         }
