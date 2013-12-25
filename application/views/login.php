@@ -13,7 +13,7 @@
 <img src="<?=base_url();?>images/icons/rexvirt_logo3.png" alt="login form" width="580" height="70" />
 </div>
 <div class="center">
-<?php echo validation_errors(); ?>
+<?= $error ?>
 <?php echo form_open('verifylogin'); ?>
 <label for="username">Username:</label>
   <input type="text" size="20" id="username" name="username" />

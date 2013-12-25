@@ -11,7 +11,7 @@
             $this->load->helper(array('form', 'url'));
             
             //フォーム入力が妥当かどうか
-            $this->load->library('form_validation');
+            //$this->load->library('form_validation');
             
             //データベース接続
             $this->load->database();
@@ -28,6 +28,7 @@
             $this->load->view('newslist', $data);
             
             //ログインからのセッション保持
+            /*
             if($this->session->userdata('logged_in'))
             {
                 $session_data = $this->session->userdata('logged_in');
@@ -38,6 +39,7 @@
             {
                 redirect('login', 'refresh');
             }
+             */
         }
         
         function logout()

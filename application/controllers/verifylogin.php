@@ -3,10 +3,12 @@
     class VerifyLogin extends CI_Controller{
         function __construct(){
             parent::__construct();
-            $this->load->model('user', '', TRUE);
+            $this->load->model('user');
+            $this->load->library('form_validation');
         }
         
         function index(){
+            /*
             $this->load->library('form_validation');
             
             $this->form_validation->set_rules('username', 'Username', 'trim|required|xss_clean');
@@ -17,29 +19,50 @@
             }else{
                 redirect('newslist', 'reflesh');
             }
-        }
-        
-        function check_database($password){
-            //Field validation succeeded. Validate against database.
-            $username = $this->input->post('username');
+             */
             
-            //query the database
+            $username = $this->input->post('username');
+            $password = $this->input->post('password');
+            
+            if($username == ''){
+                //redirect ('login', 'reflesh');
+                $error = 'error!!!!';
+                $this->load->view('login', $error);
+            }
+            
             $result = $this->user->login($username, $password);
             
+            /*
+            $sess_array = array();
+            foreach($result as $row){
+                $sess_array = array(
+                'id' => $row->id,
+                'username' => $row->username,
+                );
+            }
+             */
+            if($result){
+                redirect ('newslist', 'reflesh');
+            }else{
+                redirect ('login', 'reflesh');
+            }
+            
+            /*
             if($result){
                 $sess_array = array();
                 foreach($result as $row){
                     $sess_array = array(
-                    'id' => $row->id,
-                    'username' => $row->username,
-                    );
+                                        'id' => $row->id,
+                                        'username' => $row->username,
+                                        );
                     $this->session->set_userdata('logged_in', $sess_array);
                 }
-                return TRUE;
+                
             }else{
                 $this->form_validation->set_message('check_database', 'Invalid username or password');
                 return false;
-            }
+             }
+            */
         }
     }
 ?>
