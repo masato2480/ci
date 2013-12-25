@@ -14,10 +14,8 @@
 </div>
 <div class="center">
 <br>
-<br>
-<img border="0" src="<?=base_url();?>images/icons/add_button.jpg" width="30" height="30" alt="add_button" />
+<input type="image" src="<?=base_url();?>images/icons/add_button.jpg" value="submit" alt="add" border="0">
 <table border="1" bordercolor="#DCDCDC" style="margin-left: auto; margin-right: auto;">
-<br>
 <br>
 <tr bgcolor="#cccccc">
 <th><br></th>
@@ -29,7 +27,7 @@
 </tr>
 <?php foreach($records as $row): ?>
 <tr align=center>
-<td><img border="0" src="<?=base_url();?>images/icons/edit_button.jpg" width="20" height="20" alt="edit_button" />
+<td><input type="image" src="<?=base_url();?>images/icons/edit_button.jpg" value="submit" alt="add" border="0"></td>
 <td><?=$row['id']?></td>
 <td><?=$row['title']?></td>
 <td><?=$row['content']?></td>
@@ -40,9 +38,7 @@
 </table>
 <br>
 <br>
-<a href="logout">
-<img src="<?=base_url();?>images/icons/loginout.png" alt="loginout" width="30" height="30" />
-</a>
+<a href="logout"><img src="<?=base_url();?>images/icons/loginout.png" alt="loginout" /></a>
 </div>
 </div>
 <?=$this->load->view('ci_footer');?>

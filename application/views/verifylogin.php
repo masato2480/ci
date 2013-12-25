@@ -17,12 +17,12 @@
 <br>
 <?php echo form_open('verifylogin'); ?>
 <label for="username">Username</label>
-  <input type="text" size="20" id="username" name="username" />
-  <br>
+<input type="text" size="20" id="username" name="username" />
+<br>
 <label for="password">Password</label>
-  <input type="password" size="20" id="password" name="password" />
-  <br>
-  <br>
+<input type="password" size="20" id="password" name="password" />
+<br>
+<br>
 <input type="image" src="<?=base_url();?>images/icons/loginout.png" value="submit" alt="loginout" border="0">
 </div>
 </div>
