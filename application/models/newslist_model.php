@@ -1,33 +1,34 @@
 <?php
-    class Addnews extends CI_Model{
-    
+    class Newslist_model extends CI_Model{
         function __construct(){
             parent::__construct();
+            $this->load->helper('date');
         }
         
         function get_data(){
             $query = $this->db->get('news');
-            return $query->result();
+            return $query->result_array();
         }
         
         function get_data_by_id($id){
-            $query = $this->db->get_where('blog', array('id' => id));
-            return $query->result();
+            
         }
         
         function add($post){
+            $data['id'] = NULL;
             $data['title'] = $post['title'];
             $data['content'] = $post['content'];
+            $data['up_time'] = date('Y-m-d H:i:s',now());
+            $data['open_time'] = date('Y-m-d H:i:s', strtotime($post['open_time']));
             $data['flag'] = $post['flag'];
             $this->db->insert('news', $data);
+            
         }
         
-        function edit($post){
-            $data['title'] = $post['title'];
-            $data['content'] = $post['content'];
-            $data['flag'] = $post['flag'];
-            $this->db->where('id', $post['id']);
-            $this->db->update('news', $data);
+        function edit($id){
+            $query = $this->db->where('id', $id);
+            $query = $this->db->get('news');
+            return $query->result();
         }
     }
 ?>

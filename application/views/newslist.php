@@ -1,46 +1,39 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="ja" >
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" href="<?=base_url();?>css/form.css" type="text/css" />
-<title>News List</title>
+<title>ニュースリスト一覧</title>
 </head>
 <body>
-<?=$this->load->view('form_header');?>
 <div id="main">
-<div class="title_banner">
-<img src="<?=base_url();?>images/icons/rexvirt_logo3.png" alt="login form" width="580" height="70" />
-</div>
 <div class="center">
 <br>
-<input type="image" src="<?=base_url();?>images/icons/add_button.jpg" value="submit" alt="add" border="0">
-<table border="1" bordercolor="#DCDCDC" style="margin-left: auto; margin-right: auto;">
-<br>
+<form action="editnews" method="post">
+<a href="addnews"><img src="<?=base_url();?>images/icons/add_button.jpg" alt="loginout" /></a>
+<table border="1" bordercolor="#DCDCDC" style="margin:0 auto; text-align:center;">
 <tr bgcolor="#cccccc">
-<th><br></th>
 <th>ID</th>
 <th>TITLE</th>
 <th>CONTENT</th>
 <th>REGISTER</th>
 <th>OPEN</th>
+<th>FLAG</th>
 </tr>
 <?php foreach($records as $row): ?>
 <tr align=center>
-<td><input type="image" src="<?=base_url();?>images/icons/edit_button.jpg" value="submit" alt="add" border="0"></td>
-<td><?=$row['id']?></td>
+<td><input type="submit" name="id" value=<?=$row['id']?>></td>
+<?php echo form_hidden('id', set_value('id')); ?>
 <td><?=$row['title']?></td>
 <td><?=$row['content']?></td>
-<td><?=$row['registered']?></td>
-<td><?=$row['open']?></td>
+<td><?=$row['up_time']?></td>
+<td><?=$row['open_time']?></td>
+<td><?=$row['flag']?></td>
 </tr>
 <?php endforeach; ?>
 </table>
 <br>
-<br>
 <a href="logout"><img src="<?=base_url();?>images/icons/loginout.png" alt="loginout" /></a>
 </div>
 </div>
-<?=$this->load->view('ci_footer');?>
 </body>
 </html>
