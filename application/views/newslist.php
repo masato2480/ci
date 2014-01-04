@@ -28,7 +28,11 @@
 <td style="width: 300px; word-break: break-all;"><?=$row['content']?></td>
 <td><?=$row['up_time']?></td>
 <td><?=$row['open_time']?></td>
-<td><?=$row['flag']?></td>
+<?php if($row['flag'] == '1'): ?>
+<td>公開</td>
+<?php elseif ($row['flag'] == '0'): ?>
+<td>非公開</td>
+<?php endif; ?>
 </tr>
 <?php endforeach; ?>
 </table>
