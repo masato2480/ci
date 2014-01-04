@@ -17760,3 +17760,258 @@ DEBUG - 2014-01-04 14:56:08 --> Helper loaded: date_helper
 DEBUG - 2014-01-04 14:56:08 --> File loaded: application/views/addnews.php
 DEBUG - 2014-01-04 14:56:08 --> Final output sent to browser
 DEBUG - 2014-01-04 14:56:08 --> Total execution time: 0.0784
+DEBUG - 2014-01-04 15:08:30 --> Config Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Hooks Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Utf8 Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> UTF-8 Support Enabled
+DEBUG - 2014-01-04 15:08:30 --> URI Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Router Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Output Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Security Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Input Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-04 15:08:30 --> Language Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Loader Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Helper loaded: form_helper
+DEBUG - 2014-01-04 15:08:30 --> Helper loaded: url_helper
+DEBUG - 2014-01-04 15:08:30 --> Database Driver Class Initialized
+ERROR - 2014-01-04 15:08:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/ci/system/database/drivers/mysql/mysql_driver.php 88
+DEBUG - 2014-01-04 15:08:30 --> Session Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Helper loaded: string_helper
+DEBUG - 2014-01-04 15:08:30 --> Encrypt Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Session routines successfully run
+DEBUG - 2014-01-04 15:08:30 --> Form Validation Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Controller Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Model Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> Model Class Initialized
+DEBUG - 2014-01-04 15:08:30 --> File loaded: application/views/login_form.php
+DEBUG - 2014-01-04 15:08:30 --> Final output sent to browser
+DEBUG - 2014-01-04 15:08:30 --> Total execution time: 0.0249
+DEBUG - 2014-01-04 15:08:36 --> Config Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Hooks Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Utf8 Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> UTF-8 Support Enabled
+DEBUG - 2014-01-04 15:08:36 --> URI Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Router Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Output Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Security Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Input Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-04 15:08:36 --> Language Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Loader Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Helper loaded: form_helper
+DEBUG - 2014-01-04 15:08:36 --> Helper loaded: url_helper
+DEBUG - 2014-01-04 15:08:36 --> Database Driver Class Initialized
+ERROR - 2014-01-04 15:08:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/ci/system/database/drivers/mysql/mysql_driver.php 88
+DEBUG - 2014-01-04 15:08:36 --> Session Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Helper loaded: string_helper
+DEBUG - 2014-01-04 15:08:36 --> Encrypt Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Session routines successfully run
+DEBUG - 2014-01-04 15:08:36 --> Form Validation Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Controller Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Model Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Model Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Config Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Hooks Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Utf8 Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> UTF-8 Support Enabled
+DEBUG - 2014-01-04 15:08:36 --> URI Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Router Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> No URI present. Default controller set.
+DEBUG - 2014-01-04 15:08:36 --> Output Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Security Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Input Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-04 15:08:36 --> Language Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Loader Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Helper loaded: form_helper
+DEBUG - 2014-01-04 15:08:36 --> Helper loaded: url_helper
+DEBUG - 2014-01-04 15:08:36 --> Database Driver Class Initialized
+ERROR - 2014-01-04 15:08:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/ci/system/database/drivers/mysql/mysql_driver.php 88
+DEBUG - 2014-01-04 15:08:36 --> Session Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Helper loaded: string_helper
+DEBUG - 2014-01-04 15:08:36 --> Encrypt Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Session routines successfully run
+DEBUG - 2014-01-04 15:08:36 --> Form Validation Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> Controller Class Initialized
+DEBUG - 2014-01-04 15:08:36 --> welcome message!
+DEBUG - 2014-01-04 15:08:36 --> File loaded: application/views/welcome_message.php
+DEBUG - 2014-01-04 15:08:36 --> Final output sent to browser
+DEBUG - 2014-01-04 15:08:36 --> Total execution time: 0.0340
+DEBUG - 2014-01-04 15:08:50 --> Config Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> Hooks Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> Utf8 Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> UTF-8 Support Enabled
+DEBUG - 2014-01-04 15:08:50 --> URI Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> Router Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> Output Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> Security Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> Input Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-04 15:08:50 --> Language Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> Loader Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> Helper loaded: form_helper
+DEBUG - 2014-01-04 15:08:50 --> Helper loaded: url_helper
+DEBUG - 2014-01-04 15:08:50 --> Database Driver Class Initialized
+ERROR - 2014-01-04 15:08:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/ci/system/database/drivers/mysql/mysql_driver.php 88
+DEBUG - 2014-01-04 15:08:50 --> Session Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> Helper loaded: string_helper
+DEBUG - 2014-01-04 15:08:50 --> Encrypt Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> A session cookie was not found.
+DEBUG - 2014-01-04 15:08:50 --> Session routines successfully run
+DEBUG - 2014-01-04 15:08:50 --> Form Validation Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> Controller Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> Model Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> Model Class Initialized
+DEBUG - 2014-01-04 15:08:50 --> File loaded: application/views/login_form.php
+DEBUG - 2014-01-04 15:08:50 --> Final output sent to browser
+DEBUG - 2014-01-04 15:08:50 --> Total execution time: 0.0234
+DEBUG - 2014-01-04 15:08:54 --> Config Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Hooks Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Utf8 Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> UTF-8 Support Enabled
+DEBUG - 2014-01-04 15:08:54 --> URI Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Router Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Output Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Security Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Input Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-04 15:08:54 --> Language Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Loader Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Helper loaded: form_helper
+DEBUG - 2014-01-04 15:08:54 --> Helper loaded: url_helper
+DEBUG - 2014-01-04 15:08:54 --> Database Driver Class Initialized
+ERROR - 2014-01-04 15:08:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/ci/system/database/drivers/mysql/mysql_driver.php 88
+DEBUG - 2014-01-04 15:08:54 --> Session Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Helper loaded: string_helper
+DEBUG - 2014-01-04 15:08:54 --> Encrypt Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Session routines successfully run
+DEBUG - 2014-01-04 15:08:54 --> Form Validation Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Controller Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Model Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Model Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Language file loaded: language/japanese/form_validation_lang.php
+DEBUG - 2014-01-04 15:08:54 --> Config Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Hooks Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Utf8 Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> UTF-8 Support Enabled
+DEBUG - 2014-01-04 15:08:54 --> URI Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Router Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Output Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Security Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Input Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-04 15:08:54 --> Language Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Loader Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Helper loaded: form_helper
+DEBUG - 2014-01-04 15:08:54 --> Helper loaded: url_helper
+DEBUG - 2014-01-04 15:08:54 --> Database Driver Class Initialized
+ERROR - 2014-01-04 15:08:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/ci/system/database/drivers/mysql/mysql_driver.php 88
+DEBUG - 2014-01-04 15:08:54 --> Session Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Helper loaded: string_helper
+DEBUG - 2014-01-04 15:08:54 --> Encrypt Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Session routines successfully run
+DEBUG - 2014-01-04 15:08:54 --> Form Validation Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Controller Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2014-01-04 15:08:54 --> Model Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Model Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Helper loaded: date_helper
+DEBUG - 2014-01-04 15:08:54 --> File loaded: application/views/newslist.php
+DEBUG - 2014-01-04 15:08:54 --> Final output sent to browser
+DEBUG - 2014-01-04 15:08:54 --> Total execution time: 0.0236
+DEBUG - 2014-01-04 15:08:54 --> Config Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Hooks Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Utf8 Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> UTF-8 Support Enabled
+DEBUG - 2014-01-04 15:08:54 --> URI Class Initialized
+DEBUG - 2014-01-04 15:08:54 --> Router Class Initialized
+ERROR - 2014-01-04 15:08:54 --> 404 Page Not Found --> images
+DEBUG - 2014-01-04 15:09:00 --> Config Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Hooks Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Utf8 Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> UTF-8 Support Enabled
+DEBUG - 2014-01-04 15:09:00 --> URI Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Router Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Output Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Security Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Input Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-04 15:09:00 --> Language Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Loader Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Helper loaded: form_helper
+DEBUG - 2014-01-04 15:09:00 --> Helper loaded: url_helper
+DEBUG - 2014-01-04 15:09:00 --> Database Driver Class Initialized
+ERROR - 2014-01-04 15:09:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/ci/system/database/drivers/mysql/mysql_driver.php 88
+DEBUG - 2014-01-04 15:09:00 --> Session Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Helper loaded: string_helper
+DEBUG - 2014-01-04 15:09:00 --> Encrypt Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Session routines successfully run
+DEBUG - 2014-01-04 15:09:00 --> Form Validation Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Controller Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2014-01-04 15:09:00 --> Model Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Model Class Initialized
+DEBUG - 2014-01-04 15:09:00 --> Helper loaded: date_helper
+DEBUG - 2014-01-04 15:09:00 --> File loaded: application/views/addnews.php
+DEBUG - 2014-01-04 15:09:00 --> Final output sent to browser
+DEBUG - 2014-01-04 15:09:00 --> Total execution time: 0.0198
+DEBUG - 2014-01-04 15:10:51 --> Config Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Hooks Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Utf8 Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> UTF-8 Support Enabled
+DEBUG - 2014-01-04 15:10:51 --> URI Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Router Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Output Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Security Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Input Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-04 15:10:51 --> Language Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Loader Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Helper loaded: form_helper
+DEBUG - 2014-01-04 15:10:51 --> Helper loaded: url_helper
+DEBUG - 2014-01-04 15:10:51 --> Database Driver Class Initialized
+ERROR - 2014-01-04 15:10:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/ci/system/database/drivers/mysql/mysql_driver.php 88
+DEBUG - 2014-01-04 15:10:51 --> Session Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Helper loaded: string_helper
+DEBUG - 2014-01-04 15:10:51 --> Encrypt Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Session routines successfully run
+DEBUG - 2014-01-04 15:10:51 --> Form Validation Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Controller Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2014-01-04 15:10:51 --> Model Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Model Class Initialized
+DEBUG - 2014-01-04 15:10:51 --> Helper loaded: date_helper
+DEBUG - 2014-01-04 15:10:51 --> Language file loaded: language/japanese/form_validation_lang.php
+DEBUG - 2014-01-04 15:10:51 --> File loaded: application/views/verify_add.php
+DEBUG - 2014-01-04 15:10:51 --> Final output sent to browser
+DEBUG - 2014-01-04 15:10:51 --> Total execution time: 0.4279
+DEBUG - 2014-01-04 15:10:53 --> Config Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Hooks Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Utf8 Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> UTF-8 Support Enabled
+DEBUG - 2014-01-04 15:10:53 --> URI Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Router Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Output Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Security Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Input Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-04 15:10:53 --> Language Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Loader Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Helper loaded: form_helper
+DEBUG - 2014-01-04 15:10:53 --> Helper loaded: url_helper
+DEBUG - 2014-01-04 15:10:53 --> Database Driver Class Initialized
+ERROR - 2014-01-04 15:10:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/ci/system/database/drivers/mysql/mysql_driver.php 88
+DEBUG - 2014-01-04 15:10:53 --> Session Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Helper loaded: string_helper
+DEBUG - 2014-01-04 15:10:53 --> Encrypt Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Session routines successfully run
+DEBUG - 2014-01-04 15:10:53 --> Form Validation Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Controller Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2014-01-04 15:10:53 --> Model Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Model Class Initialized
+DEBUG - 2014-01-04 15:10:53 --> Helper loaded: date_helper
+DEBUG - 2014-01-04 15:10:53 --> File loaded: application/views/newslist.php
+DEBUG - 2014-01-04 15:10:53 --> Final output sent to browser
+DEBUG - 2014-01-04 15:10:53 --> Total execution time: 0.1827
