@@ -192,10 +192,46 @@ img { vertical-align: middle; }
 	background-position: bottom;
 }
 
+#image-login-btn {
+	border: 0px;
+	width: 70px;
+	height: 70px;
+	background: url(../images/icons/login-image.png) no-repeat;
+	background-position: center;
+}
+
+#image-add-button {
+	border: 0px;
+	width: 100px;
+	height: 70px;
+	background: url(../images/icons/add_logo.png) no-repeat;
+	background-position: center;
+}
+
+#image-edit-button {
+	border: 0px;
+	width: 150px;
+	height: 60px;
+	background: url(../images/icons/edit_logo.png) no-repeat;
+	background-position: center;
+}
+
+#image-delete-button {
+	border: 0px;
+	width: 150px;
+	height: 80px;
+	background: url(../images/icons/delete_logo.jpg) no-repeat;
+	background-position: center;
+}
+
 .defineTable {
-	width: 700px;
+	width: auto;
 	margin:0 auto;
 	text-align: center;
 	table-layout: fixed;
 	border-collapse: collapse;
+}
+
+td, th {
+	padding: 4px 4px;
 }

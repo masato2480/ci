@@ -9,17 +9,17 @@
 <div class="center">
 <br>
 <form action="editnews" method="post">
-<a href="addnews"><img src="<?=base_url();?>images/icons/add_button.jpg" alt="loginout" /></a>
+<a href="addnews"><img src="<?=base_url();?>images/icons/add_button.jpg" alt="loginout" style="margin-bottom:10px;" /></a>
 <input type="submit" value="" id="image-btn" />
-<a href="logout"><img src="<?=base_url();?>images/icons/loginout.png" alt="loginout" /></a>
+<a href="logout"><img src="<?=base_url();?>images/icons/loginout.png" alt="loginout"  style="margin-bottom:15px;" /></a>
 <table border="1" bordercolor="#DCDCDC" class="defineTable">
 <tr bgcolor="#cccccc">
-<th>EDIT</th>
-<th style="width: 100px;">TITLE</th>
-<th style="width: 300px;">CONTENT</th>
-<th>REGISTER</th>
-<th>OPEN</th>
-<th>FLAG</th>
+<th>編集</th>
+<th style="width: 100px;">タイトル</th>
+<th style="width: 300px;">内容</th>
+<th>登録・変更日</th>
+<th>公開日</th>
+<th>公開条件</th>
 </tr>
 <?php foreach($records as $row): ?>
 <tr align=center>
