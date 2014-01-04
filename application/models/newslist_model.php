@@ -35,5 +35,9 @@
             $this->db->where('id',$post['id']);
             $this->db->update('news',$data);
         }
+        
+        function delete($id){
+            $query = $this->db->delete('news',array('id'=>$id));
+        }
     }
 ?>

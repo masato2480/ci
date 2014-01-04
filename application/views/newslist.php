@@ -10,6 +10,8 @@
 <br>
 <form action="editnews" method="post">
 <a href="addnews"><img src="<?=base_url();?>images/icons/add_button.jpg" alt="loginout" /></a>
+<input type="submit" value="" id="image-btn" />
+<a href="logout"><img src="<?=base_url();?>images/icons/loginout.png" alt="loginout" /></a>
 <table border="1" bordercolor="#DCDCDC" style="margin:0 auto; text-align:center;">
 <tr bgcolor="#cccccc">
 <th></th>
@@ -21,7 +23,7 @@
 </tr>
 <?php foreach($records as $row): ?>
 <tr align=center>
-<td><input type="submit" name="id" value=<?=$row['id']?> /></td>
+<td><input type="radio" name="id" value=<?=$row['id']?> /></td>
 <td><?=$row['title']?></td>
 <td><?=$row['content']?></td>
 <td><?=$row['up_time']?></td>
@@ -31,7 +33,6 @@
 <?php endforeach; ?>
 </table>
 <br>
-<a href="logout"><img src="<?=base_url();?>images/icons/loginout.png" alt="loginout" /></a>
 </div>
 </div>
 </body>

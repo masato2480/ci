@@ -46,6 +46,11 @@
             $this->load->view('verify_edit');
         }
         
+        function deletenews(){
+            $this->newslist_model->delete($this->input->post('id'));
+            redirect('newslist');
+        }
+        
         private function _input_check(){
             $this->form_validation->set_rules('title','タイトル','trim|required');
             $this->form_validation->set_rules('content','内容','trim|required');

@@ -180,3 +180,14 @@ img { vertical-align: middle; }
 	margin-left: 50px;
 	margin-top: 30px;
 }
+
+#image-btn {
+	border: 0px;
+	width: 35px;
+	height: 35px;
+	margin-left: 60px;
+	margin-right: 60px;
+	background: url(../images/icons/edit_button.jpg) no-repeat;
+	background-position: center;
+	background-position: bottom;
+}

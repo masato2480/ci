@@ -24,7 +24,12 @@
 <?php echo form_radio(array('name'=>'flag','value'=>$record['flag'])); ?>非公開<br>
 <font color="red"><?php echo form_error('flag'); ?></font><br>
 <input type="hidden" name="id" value=<?=$record['id']?> />
-<input type="submit" value='edit'><br/>
+<input type="submit" value="edit"><br>
+</form>
+
+<form action="deletenews" method="post">
+<input type="hidden" name="id" value=<?=$record['id']?> />
+<input type="submit" value="delete">
 </form>
 </div>
 </div>
