@@ -191,3 +191,11 @@ img { vertical-align: middle; }
 	background-position: center;
 	background-position: bottom;
 }
+
+.defineTable {
+	width: 700px;
+	margin:0 auto;
+	text-align: center;
+	table-layout: fixed;
+	border-collapse: collapse;
+}

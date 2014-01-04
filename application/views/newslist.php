@@ -12,11 +12,11 @@
 <a href="addnews"><img src="<?=base_url();?>images/icons/add_button.jpg" alt="loginout" /></a>
 <input type="submit" value="" id="image-btn" />
 <a href="logout"><img src="<?=base_url();?>images/icons/loginout.png" alt="loginout" /></a>
-<table border="1" bordercolor="#DCDCDC" style="margin:0 auto; text-align:center;">
+<table border="1" bordercolor="#DCDCDC" class="defineTable">
 <tr bgcolor="#cccccc">
-<th></th>
-<th>TITLE</th>
-<th>CONTENT</th>
+<th>EDIT</th>
+<th style="width: 100px;">TITLE</th>
+<th style="width: 300px;">CONTENT</th>
 <th>REGISTER</th>
 <th>OPEN</th>
 <th>FLAG</th>
@@ -24,8 +24,8 @@
 <?php foreach($records as $row): ?>
 <tr align=center>
 <td><input type="radio" name="id" value=<?=$row['id']?> /></td>
-<td><?=$row['title']?></td>
-<td><?=$row['content']?></td>
+<td style="width: 100px; word-break: break-all;"><?=$row['title']?></td>
+<td style="width: 300px; word-break: break-all;"><?=$row['content']?></td>
 <td><?=$row['up_time']?></td>
 <td><?=$row['open_time']?></td>
 <td><?=$row['flag']?></td>

@@ -31,6 +31,7 @@
 <input type="hidden" name="id" value=<?=$record['id']?> />
 <input type="submit" value="delete">
 </form>
+
 </div>
 </div>
 </body>
