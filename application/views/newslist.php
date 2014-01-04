@@ -12,7 +12,7 @@
 <a href="addnews"><img src="<?=base_url();?>images/icons/add_button.jpg" alt="loginout" /></a>
 <table border="1" bordercolor="#DCDCDC" style="margin:0 auto; text-align:center;">
 <tr bgcolor="#cccccc">
-<th>ID</th>
+<th></th>
 <th>TITLE</th>
 <th>CONTENT</th>
 <th>REGISTER</th>
@@ -21,8 +21,7 @@
 </tr>
 <?php foreach($records as $row): ?>
 <tr align=center>
-<td><input type="submit" name="id" value=<?=$row['id']?>></td>
-<?php echo form_hidden('id', set_value('id')); ?>
+<td><input type="submit" name="id" value=<?=$row['id']?> /></td>
 <td><?=$row['title']?></td>
 <td><?=$row['content']?></td>
 <td><?=$row['up_time']?></td>

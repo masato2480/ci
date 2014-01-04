@@ -33,12 +33,17 @@
         
         function editnews(){
             $id = $this->input->post('id');
-            $data['record'] = $this->newslist_model->edit($id);
+            $data['record'] = $this->newslist_model->get_id($id);
             $this->load->view('editnews', $data);
         }
         
         function verify_edit(){
-            
+            if($this->_input_check() == false){
+                $this->load->view('editnews');
+                return;
+            }
+            $this->newslist_model->edit($this->input->post());
+            $this->load->view('verify_edit');
         }
         
         private function _input_check(){
