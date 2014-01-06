@@ -12,6 +12,16 @@
             $this->load->view('newslist', $data);
         }
         
+        function getnews(){
+            //$data['records'] = $this->newslist_model->get_data();
+            
+            $data = $this->newslist_model->get_data();
+            echo json_encode($data);
+            
+            //$this->set_content_type('application/json')->set_output(json_encode($data));
+            //$this->load->view('getnews',$data);
+        }
+        
         function logout()
         {
             $this->session->sess_destroy();
