@@ -7,8 +7,9 @@
 <body>
 <div id="main">
 <div class="center">
+<img src="<?=base_url();?>images/icons/news-banner.jpg" alt="ニュースバナー" />
 <div class="image_left">
-<a href="newslist"><img src="<?=base_url();?>images/icons/back_button.png" alt="back_button" /></a>
+<a href="/ci/newslist/"><img src="<?=base_url();?>images/icons/back_button.png" alt="back_button" /></a>
 </div>
 <br>
 ニュースが編集されました。

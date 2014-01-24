@@ -10,8 +10,9 @@
 <img src="<?=base_url();?>images/icons/login_banner.jpg" alt="ログインバナー" />
 
 <!--エラーメッセージ-->
-<?php if( !empty($error)): ?><font color="red"><?php echo $error; ?></font><?php endif; ?>
+<?php if( !empty($error)): ?><br/><br/><font color="red"><?php echo $error; ?></font><?php endif; ?>
 <font color="red"><?php echo validation_errors(); ?></font>
+<!--エラーメッセージ-->
 
 <?php echo form_open('auth/login'); ?>
 <p>ユーザー名 <input type="text" name="username" value="<?php echo set_value('username'); ?>"></p>

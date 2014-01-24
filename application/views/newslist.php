@@ -7,23 +7,21 @@
 <body>
 <div id="main">
 <div class="center">
-<br>
-<form action="editnews" method="post">
-<a href="addnews"><img src="<?=base_url();?>images/icons/add_button.jpg" alt="loginout" style="margin-bottom:10px;" /></a>
-<input type="submit" value="" id="image-btn" />
-<a href="logout"><img src="<?=base_url();?>images/icons/loginout.png" alt="loginout"  style="margin-bottom:15px;" /></a>
+<img src="<?=base_url();?>images/icons/news-banner.jpg" alt="ニュースバナー" />
+<br/><br/>
+<a href="addnews"><img src="<?=base_url();?>images/icons/add_button.jpg" alt="addnews" style="margin-bottom:10px;" /></a>
 <table border="1" bordercolor="#DCDCDC" class="defineTable">
-<tr bgcolor="#cccccc">
-<th>編集</th>
+<tr bgcolor="#778899">
+<th></th>
 <th style="width: 100px;">タイトル</th>
 <th style="width: 300px;">内容</th>
-<th>登録・変更日</th>
+<th>登録変更日</th>
 <th>公開日</th>
-<th>公開条件</th>
+<th style="width: 80px;">公開条件</th>
 </tr>
 <?php foreach($records as $row): ?>
 <tr align=center>
-<td><input type="radio" name="id" value=<?=$row['id']?> /></td>
+<td><a href="/ci/newslist/editnews?c=newslist&m=editnews&id=<?= $row['id']?>"><img src="<?=base_url();?>images/icons/edit_button.jpg" /></a></td>
 <td style="width: 100px; word-break: break-all;"><?=$row['title']?></td>
 <td style="width: 300px; word-break: break-all;"><?=$row['content']?></td>
 <td><?=$row['up_time']?></td>
@@ -37,6 +35,7 @@
 <?php endforeach; ?>
 </table>
 <br>
+<a href="/ci/newslist/logout"><img src="<?=base_url();?>images/icons/loginout.png" alt="loginout"  style="margin-bottom:15px;" /></a>
 </div>
 </div>
 </body>

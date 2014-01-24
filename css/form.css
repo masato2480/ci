@@ -210,17 +210,18 @@ img { vertical-align: middle; }
 
 #image-edit-button {
 	border: 0px;
-	width: 150px;
-	height: 60px;
-	background: url(../images/icons/edit_logo.png) no-repeat;
+	width: 80px;
+	height: 80px;
+	background: url(../images/icons/edit_logo.jpg) no-repeat;
 	background-position: center;
 }
 
 #image-delete-button {
 	border: 0px;
-	width: 150px;
+	width: 80px;
 	height: 80px;
-	background: url(../images/icons/delete_logo.jpg) no-repeat;
+	margin-top:15px;
+	background: url(../images/icons/delete_logo.png) no-repeat;
 	background-position: center;
 }
 

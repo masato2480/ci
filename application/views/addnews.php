@@ -12,8 +12,9 @@
 <body>
 <div id="main">
 <div class="center">
+<img src="<?=base_url();?>images/icons/news-banner.jpg" alt="ニュースバナー" />
 <div class="image_left">
-<a href="newslist"><img src="<?=base_url();?>images/icons/back_button.png" alt="back_button" /></a>
+<a href="/ci/newslist/"><img src="<?=base_url();?>images/icons/back_button.png" alt="back_button" /></a>
 </div>
 <form action="verify_add" method="post">
 <font color="red"><?php echo form_error('title'); ?></font>
@@ -41,7 +42,7 @@ $(function() {
 ■公開日<br>
 <input type="text" name="open_time" id="datepicker" value=<?php echo set_value('open_time'); ?> /><br/>
 
-■公開条件（公開：1, 非公開：0）
+■公開条件
 <br/>
 <?php echo form_radio(array('name'=>'flag','value'=>1)); ?>公開
 <?php echo form_radio(array('name'=>'flag','value'=>0)); ?>非公開<br/>

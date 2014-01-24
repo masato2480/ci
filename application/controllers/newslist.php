@@ -1,6 +1,8 @@
 <?php
-    class Newslist extends MY_Controller{
-        function __construct(){
+    class Newslist extends MY_Controller
+    {
+        function __construct()
+        {
             parent::__construct();
             $this->load->database();
             $this->load->model('newslist_model');
@@ -42,7 +44,7 @@
         }
         
         function editnews(){
-            $id = $this->input->post('id');
+            $id = $this->input->get('id');
             $data['record'] = $this->newslist_model->get_id($id);
             $this->load->view('editnews', $data);
         }
