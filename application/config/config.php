@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= "http://apn.eventtalk.jp/ci/";
+$config['base_url']	= "/";
 
 /*
 |--------------------------------------------------------------------------

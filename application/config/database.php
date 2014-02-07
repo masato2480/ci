@@ -66,4 +66,4 @@ $db['default']['port'] = 8888;
 
 
 /* End of file database.php */
-/* Location: ./application/config/database.php */
+// Location: ./application/config/database.php
